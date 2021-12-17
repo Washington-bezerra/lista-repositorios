@@ -1,0 +1,1 @@
+print(f'{"Nome repositorio":<25}|{"Link repositorio":<70}')
